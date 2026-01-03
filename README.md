@@ -134,14 +134,6 @@
 |Instinct MI210                    |64             |HBM2e      |1638                   |CDNA 2      |Mar-2022    |https://www.amd.com/en/products/accelerators/instinct/mi200/mi210.html                                                      |
 |Instinct MI100                    |32             |HBM2       |1228                   |CDNA 1      |Nov-2020    |https://www.techpowerup.com/gpu-specs/radeon-instinct-mi100.c3672                                                           |
 
-
-
-
-# Viz: Various current and planned semiconductor plants in India
-### Source: Individual websites
-### Date: 17-Aug-2024
-[View Semiconductor Plants in India](https://olabs-ai.github.io/genai-observations/semiconductor_companies_india2.html)
-
 # Table: Various GPUs with their configs
 ### Source: Claude 3.5 Sonnet
 ### Date: 10-Sep-2024
